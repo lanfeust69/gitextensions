@@ -5,4 +5,3 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyKeyFile("")]
 [assembly: AssemblyKeyName("")]
 [assembly: System.CLSCompliant(false)]
-[assembly: InternalsVisibleTo("GitExtensionsVSIX")]
